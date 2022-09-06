@@ -1,0 +1,249 @@
+CRITICAL - 2022-09-05 11:08:29 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 219.
+ 1 SYSTEMPATH\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 ROOTPATH\spark(83): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2022-09-05 11:12:34 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 219.
+ 1 SYSTEMPATH\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 ROOTPATH\spark(83): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2022-09-05 11:13:09 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 219.
+ 1 SYSTEMPATH\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 ROOTPATH\spark(83): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2022-09-05 11:16:07 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 219.
+ 1 SYSTEMPATH\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 ROOTPATH\spark(83): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2022-09-05 11:18:03 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 219.
+ 1 SYSTEMPATH\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 ROOTPATH\spark(83): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2022-09-05 07:30:37 --> Class 'App\Models\CarModel' not found
+in APPPATH\Controllers\Car.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Car->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Car))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-09-05 07:30:38 --> Class 'App\Models\CarModel' not found
+in APPPATH\Controllers\Car.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Car->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Car))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-09-05 07:30:39 --> Class 'App\Models\CarModel' not found
+in APPPATH\Controllers\Car.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Car->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Car))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-09-05 07:30:40 --> Class 'App\Models\CarModel' not found
+in APPPATH\Controllers\Car.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Car->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Car))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-09-05 07:31:08 --> Class 'App\Models\CarModel' not found
+in APPPATH\Controllers\Car.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Car->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Car))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-09-05 07:31:09 --> Class 'App\Models\CarModel' not found
+in APPPATH\Controllers\Car.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Car->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Car))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-09-05 07:31:51 --> Class 'App\Models\CarModel' not found
+in APPPATH\Controllers\Car.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Car->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Car))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-09-05 07:31:51 --> Class 'App\Models\CarModel' not found
+in APPPATH\Controllers\Car.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Car->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Car))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-09-05 07:31:52 --> Class 'App\Models\CarModel' not found
+in APPPATH\Controllers\Car.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Car->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Car))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-09-05 10:30:32 --> Call to a member function update() on null
+in APPPATH\Controllers\Car.php on line 38.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Car->updateCars()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Car))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-09-05 10:46:11 --> Call to a member function where() on null
+in APPPATH\Controllers\Car.php on line 38.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Car->updateCars()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Car))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-09-05 10:50:48 --> Call to a member function where() on null
+in APPPATH\Controllers\Car.php on line 38.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Car->updateCars()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Car))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-09-05 10:50:49 --> Call to a member function where() on null
+in APPPATH\Controllers\Car.php on line 38.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Car->updateCars()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Car))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-09-05 10:53:25 --> Call to a member function where() on null
+in APPPATH\Controllers\Car.php on line 38.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Car->updateCars()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Car))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-09-05 10:53:26 --> Call to a member function where() on null
+in APPPATH\Controllers\Car.php on line 38.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Car->updateCars()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Car))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-09-05 10:54:59 --> Call to a member function where() on null
+in APPPATH\Controllers\Car.php on line 38.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Car->updateCars()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Car))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-09-05 10:56:41 --> Call to a member function update() on null
+in APPPATH\Controllers\Car.php on line 38.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Car->updateCars()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Car))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-09-05 10:56:53 --> Call to a member function update() on null
+in APPPATH\Controllers\Car.php on line 38.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Car->updateCars()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Car))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+ERROR - 2022-09-05 11:04:56 --> mysqli_sql_exception: Duplicate entry '4' for key 'PRIMARY' in C:\xampp\htdocs\codeigniter4-CodeIgniter4-265ed2f\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\codeigniter4-CodeIgniter4-265ed2f\system\Database\MySQLi\Connection.php(292): mysqli->query('UPDATE `list_ca...', 0)
+#1 C:\xampp\htdocs\codeigniter4-CodeIgniter4-265ed2f\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `list_ca...')
+#2 C:\xampp\htdocs\codeigniter4-CodeIgniter4-265ed2f\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `list_ca...')
+#3 C:\xampp\htdocs\codeigniter4-CodeIgniter4-265ed2f\system\Database\BaseBuilder.php(2079): CodeIgniter\Database\BaseConnection->query('UPDATE `list_ca...', Array, false)
+#4 C:\xampp\htdocs\codeigniter4-CodeIgniter4-265ed2f\app\Models\CarModel.php(35): CodeIgniter\Database\BaseBuilder->update(Array)
+#5 C:\xampp\htdocs\codeigniter4-CodeIgniter4-265ed2f\app\Controllers\Car.php(35): App\Models\CarModel->updateCar(Array)
+#6 C:\xampp\htdocs\codeigniter4-CodeIgniter4-265ed2f\system\CodeIgniter.php(907): App\Controllers\Car->updateCars()
+#7 C:\xampp\htdocs\codeigniter4-CodeIgniter4-265ed2f\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Car))
+#8 C:\xampp\htdocs\codeigniter4-CodeIgniter4-265ed2f\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\codeigniter4-CodeIgniter4-265ed2f\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\codeigniter4-CodeIgniter4-265ed2f\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+ERROR - 2022-09-05 11:06:13 --> mysqli_sql_exception: Duplicate entry '3' for key 'PRIMARY' in C:\xampp\htdocs\codeigniter4-CodeIgniter4-265ed2f\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\codeigniter4-CodeIgniter4-265ed2f\system\Database\MySQLi\Connection.php(292): mysqli->query('UPDATE `list_ca...', 0)
+#1 C:\xampp\htdocs\codeigniter4-CodeIgniter4-265ed2f\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `list_ca...')
+#2 C:\xampp\htdocs\codeigniter4-CodeIgniter4-265ed2f\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `list_ca...')
+#3 C:\xampp\htdocs\codeigniter4-CodeIgniter4-265ed2f\system\Database\BaseBuilder.php(2079): CodeIgniter\Database\BaseConnection->query('UPDATE `list_ca...', Array, false)
+#4 C:\xampp\htdocs\codeigniter4-CodeIgniter4-265ed2f\app\Models\CarModel.php(35): CodeIgniter\Database\BaseBuilder->update(Array)
+#5 C:\xampp\htdocs\codeigniter4-CodeIgniter4-265ed2f\app\Controllers\Car.php(35): App\Models\CarModel->updateCar(Array)
+#6 C:\xampp\htdocs\codeigniter4-CodeIgniter4-265ed2f\system\CodeIgniter.php(907): App\Controllers\Car->updateCars()
+#7 C:\xampp\htdocs\codeigniter4-CodeIgniter4-265ed2f\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Car))
+#8 C:\xampp\htdocs\codeigniter4-CodeIgniter4-265ed2f\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\codeigniter4-CodeIgniter4-265ed2f\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\codeigniter4-CodeIgniter4-265ed2f\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2022-09-05 11:06:13 --> Call to a member function where() on bool
+in APPPATH\Controllers\Car.php on line 39.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Car->updateCars()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Car))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-09-05 11:06:37 --> Call to a member function where() on null
+in APPPATH\Models\CarModel.php on line 35.
+ 1 APPPATH\Controllers\Car.php(35): App\Models\CarModel->updateCar([...])
+ 2 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Car->updateCars()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Car))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-09-05 11:07:12 --> Call to a member function where() on null
+in APPPATH\Models\CarModel.php on line 35.
+ 1 APPPATH\Controllers\Car.php(35): App\Models\CarModel->updateCar([...])
+ 2 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Car->updateCars()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Car))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-09-05 11:07:52 --> Call to a member function where() on null
+in APPPATH\Models\CarModel.php on line 35.
+ 1 APPPATH\Controllers\Car.php(35): App\Models\CarModel->updateCar([...])
+ 2 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Car->updateCars()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Car))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-09-05 11:08:19 --> Call to a member function where() on null
+in APPPATH\Controllers\Car.php on line 38.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Car->updateCars()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Car))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-09-05 23:56:25 --> Too few arguments to function App\Models\CarModel::deleteCar(), 1 passed in C:\xampp\htdocs\codeigniter4-CodeIgniter4-265ed2f\app\Controllers\Car.php on line 47 and exactly 2 expected
+in APPPATH\Models\CarModel.php on line 40.
+ 1 APPPATH\Controllers\Car.php(47): App\Models\CarModel->deleteCar([])
+ 2 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Car->deleteCars('3')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Car))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-09-05 23:58:31 --> Too few arguments to function App\Models\CarModel::deleteCar(), 1 passed in C:\xampp\htdocs\codeigniter4-CodeIgniter4-265ed2f\app\Controllers\Car.php on line 47 and exactly 2 expected
+in APPPATH\Models\CarModel.php on line 40.
+ 1 APPPATH\Controllers\Car.php(47): App\Models\CarModel->deleteCar([])
+ 2 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Car->deleteCars('3')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Car))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-09-05 23:59:12 --> Too few arguments to function App\Models\CarModel::deleteCar(), 1 passed in C:\xampp\htdocs\codeigniter4-CodeIgniter4-265ed2f\app\Controllers\Car.php on line 47 and exactly 2 expected
+in APPPATH\Models\CarModel.php on line 40.
+ 1 APPPATH\Controllers\Car.php(47): App\Models\CarModel->deleteCar([...])
+ 2 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Car->deleteCars('3')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Car))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-09-05 23:59:34 --> Too few arguments to function App\Models\CarModel::deleteCar(), 1 passed in C:\xampp\htdocs\codeigniter4-CodeIgniter4-265ed2f\app\Controllers\Car.php on line 47 and exactly 2 expected
+in APPPATH\Models\CarModel.php on line 40.
+ 1 APPPATH\Controllers\Car.php(47): App\Models\CarModel->deleteCar([...])
+ 2 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Car->deleteCars('3')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Car))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')

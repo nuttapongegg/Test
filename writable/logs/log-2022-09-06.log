@@ -1,0 +1,48 @@
+CRITICAL - 2022-09-06 00:03:30 --> Too few arguments to function App\Models\CarModel::deleteCar(), 1 passed in C:\xampp\htdocs\codeigniter4-CodeIgniter4-265ed2f\app\Controllers\Car.php on line 48 and exactly 2 expected
+in APPPATH\Models\CarModel.php on line 40.
+ 1 APPPATH\Controllers\Car.php(48): App\Models\CarModel->deleteCar([])
+ 2 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Car->deleteCars('3')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Car))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-09-06 00:03:31 --> Too few arguments to function App\Models\CarModel::deleteCar(), 1 passed in C:\xampp\htdocs\codeigniter4-CodeIgniter4-265ed2f\app\Controllers\Car.php on line 48 and exactly 2 expected
+in APPPATH\Models\CarModel.php on line 40.
+ 1 APPPATH\Controllers\Car.php(48): App\Models\CarModel->deleteCar([])
+ 2 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Car->deleteCars('3')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Car))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-09-06 00:05:01 --> Too few arguments to function App\Models\CarModel::deleteCar(), 1 passed in C:\xampp\htdocs\codeigniter4-CodeIgniter4-265ed2f\app\Controllers\Car.php on line 48 and exactly 2 expected
+in APPPATH\Models\CarModel.php on line 40.
+ 1 APPPATH\Controllers\Car.php(48): App\Models\CarModel->deleteCar([])
+ 2 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Car->deleteCars('3')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Car))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-09-06 00:05:24 --> Too few arguments to function App\Models\CarModel::deleteCar(), 1 passed in C:\xampp\htdocs\codeigniter4-CodeIgniter4-265ed2f\app\Controllers\Car.php on line 48 and exactly 2 expected
+in APPPATH\Models\CarModel.php on line 40.
+ 1 APPPATH\Controllers\Car.php(48): App\Models\CarModel->deleteCar([])
+ 2 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Car->deleteCars('3')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Car))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-09-06 00:07:43 --> Too few arguments to function App\Models\CarModel::deleteCar(), 1 passed in C:\xampp\htdocs\codeigniter4-CodeIgniter4-265ed2f\app\Controllers\Car.php on line 47 and exactly 2 expected
+in APPPATH\Models\CarModel.php on line 40.
+ 1 APPPATH\Controllers\Car.php(47): App\Models\CarModel->deleteCar([...])
+ 2 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Car->deleteCars('3')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Car))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-09-06 00:07:44 --> Too few arguments to function App\Models\CarModel::deleteCar(), 1 passed in C:\xampp\htdocs\codeigniter4-CodeIgniter4-265ed2f\app\Controllers\Car.php on line 47 and exactly 2 expected
+in APPPATH\Models\CarModel.php on line 40.
+ 1 APPPATH\Controllers\Car.php(47): App\Models\CarModel->deleteCar([...])
+ 2 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Car->deleteCars('3')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Car))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
